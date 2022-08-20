@@ -1,0 +1,22 @@
+id: light-soft
+dark: "false"
+name: Gruvbox Material (Light Soft)
+colors:
+  red: "#c14a4a"
+  orange: "#c35e0a"
+  yellow: "#b47109"
+  green: "#6c782e"
+  blue: "#45707a"
+  cyan: "#4c7a5d"
+  purple: "#945e80"
+
+  base0: "#ebdbb2"
+  base1: "#efe0b7"
+  base2: "#f2e5bc"
+  base3: "#ebdbb2"
+  base4: "#d5c4a1"
+  base5: "#c9b99a"
+  base6: "#a89984"
+  base7: "#4f3829"
+  base8: "#654735"
+  base8x0c: "#e5d6af"

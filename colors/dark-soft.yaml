@@ -1,0 +1,22 @@
+id: dark-soft
+dark: "true"
+name: Gruvbox Material (Dark Soft)
+colors:
+  red: "#ea6962"
+  orange: "#e78a4e"
+  yellow: "#d8a657"
+  green: "#a9b665"
+  blue: "#7daea3"
+  cyan: "#89B482"
+  purple: "#d3869b"
+
+  base0: "#181919"
+  base1: "#242424"
+  base2: "#32302f"
+  base3: "#3c3836"
+  base4: "#504945"
+  base5: "#5a524c"
+  base6: "#7c6f64"
+  base7: "#d4be98"
+  base8: "#ddc7a1"
+  base8x0c: "#423e3a"

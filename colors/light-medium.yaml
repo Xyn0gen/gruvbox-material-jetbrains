@@ -1,0 +1,22 @@
+id: light-medium
+dark: "false"
+name: Gruvbox Material (Light Medium)
+colors:
+  red: "#c14a4a"
+  orange: "#c35e0a"
+  yellow: "#b47109"
+  green: "#6c782e"
+  blue: "#45707a"
+  cyan: "#4c7a5d"
+  purple: "#945e80"
+
+  base0: "#f2e5bc"
+  base1: "#f6ebc1"
+  base2: "#fbf1c7"
+  base3: "#f2e5bc"
+  base4: "#e0cfa9"
+  base5: "#d5c4a1"
+  base6: "#bdae93"
+  base7: "#4f3829"
+  base8: "#654735"
+  base8x0c: "#ede1b9"
