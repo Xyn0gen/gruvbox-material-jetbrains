@@ -7,7 +7,7 @@ It is somewhat modified from the original colorscheme to match the VSCode port a
 Reads colorscheme from a yaml file in the colours folder and uses jinja2 to render the templates
 
 ## Building the theme
-Render the template then open gruvbox-material in Intellij to build the .jar plugin file.
+Render the template then open `gruvbox-material` in Intellij to build the .jar plugin file.
 
 ```
 pip install -r requirements.txt
