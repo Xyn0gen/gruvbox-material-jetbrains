@@ -10,13 +10,13 @@ colors:
   cyan: "#89B482"
   purple: "#d3869b"
 
-  base0: "#070808"
-  base1: "#131414"
-  base2: "#202020"
-  base3: "#2a2827"
-  base4: "#3d3835"
-  base5: "#46403d"
-  base6: "#5a524c"
+  base0: "#070808" #bg0
+  base1: "#131414" #bg1
+  base2: "#202020" #bg
+  base3: "#2a2827" #bg2
+  base4: "#46403d" #bg6
+  base5: "#514945" #bg7
+  base6: "#7c6f64" #grey0
   base7: "#d4be98"
   base8: "#ddc7a1"
   base8x0c: "#323130"
