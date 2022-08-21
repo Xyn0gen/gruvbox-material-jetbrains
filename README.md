@@ -1,6 +1,6 @@
 # Gruvbox Material
 
-This is a port of the [Gruvbox Material theme by sainnhe](https://github.com/sainnhe/gruvbox-material/) using [subtheme-dev's monokai-pro](https://github.com/sainnhe/gruvbox-material/) as a base for intellij IDEs. 
+This is a port of the [Gruvbox Material theme by sainnhe](https://github.com/sainnhe/gruvbox-material/) using [subtheme-dev's monokai-pro](https://github.com/subtheme-dev/monokai-pro) as a base for intellij IDEs. 
 
 It is somewhat modified from the original colorscheme to match the VSCode port a little more.
 
