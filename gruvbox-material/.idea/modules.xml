@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gruvbox-material.iml" filepath="$PROJECT_DIR$/gruvbox-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gruvbox-material-jetbrains.iml" filepath="$PROJECT_DIR$/gruvbox-material-jetbrains.iml" />
     </modules>
   </component>
 </project>
