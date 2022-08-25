@@ -172,13 +172,13 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="939393" />
+        <option name="FOREGROUND" value="#7c6f64" />
         <option name="BACKGROUND" value="#292828" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="#ddc7a1" />
         <option name="BACKGROUND" value="#32302f" />
       </value>
     </option>
@@ -1030,8 +1030,8 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="FOREGROUND" value="#7c6f64" />
+        <option name="EFFECT_COLOR" value="#7c6f64" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

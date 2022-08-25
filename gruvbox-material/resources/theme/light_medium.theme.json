@@ -2,7 +2,7 @@
   "name": "Gruvbox Material (Light Medium)",
   "dark": false,
   "author": "Xynogen",
-  "editorScheme": "/theme/light-medium.xml",
+  "editorScheme": "/theme/light_medium.xml",
   "ui": {
     "*": {
       "acceleratorSelectionForeground": "#b47109",

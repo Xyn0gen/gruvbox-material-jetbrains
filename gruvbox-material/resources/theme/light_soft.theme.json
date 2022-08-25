@@ -2,7 +2,7 @@
   "name": "Gruvbox Material (Light Soft)",
   "dark": false,
   "author": "Xynogen",
-  "editorScheme": "/theme/light-soft.xml",
+  "editorScheme": "/theme/light_soft.xml",
   "ui": {
     "*": {
       "acceleratorSelectionForeground": "#b47109",
